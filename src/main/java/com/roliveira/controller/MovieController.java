@@ -9,7 +9,7 @@ import com.roliveira.model.Movie;
 import com.roliveira.service.MovieService;
 
 @RestController
-public class CompanyController {
+public class MovieController {
 
 	@Autowired
 	private MovieService movieService;
